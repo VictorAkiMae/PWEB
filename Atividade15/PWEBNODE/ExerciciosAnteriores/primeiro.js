@@ -1,0 +1,1 @@
+console('Günaydın, Bom dia em Turco ');

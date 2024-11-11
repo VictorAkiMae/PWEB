@@ -1,0 +1,14 @@
+terminal crtl + shift + '
+type arquivo.js - mostra o código do programa
+
+rodar - node arquivo.js
+
+carregamento de módulos - require é necessário
+
+nodemon - ajuda no desenvolvimento dos node application. 
+npm install nodemon --save-dev
+npm install express --save
+npm install ejs --save 
+    mistura de html, js. Passagem 
+
+lembrar de tirar node_modules p não sobrecarregar pc prof
